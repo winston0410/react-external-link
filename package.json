@@ -22,14 +22,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/winston0410/react-anchor-heading.git"
+    "url": "git+https://github.com/winston0410/react-external-link.git"
   },
   "author": "Hugo Sum",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/winston0410/react-anchor-heading/issues"
+    "url": "https://github.com/winston0410/react-external-link/issues"
   },
-  "homepage": "https://github.com/winston0410/react-anchor-heading#readme",
+  "homepage": "https://github.com/winston0410/react-external-link#readme",
   "files": [
     "dist/"
   ],
